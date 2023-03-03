@@ -1,0 +1,5 @@
+name: Particleform
+api: 4.0.0
+version: 1
+main: particle\Main
+author: zsfell
